@@ -24,7 +24,7 @@ print_lock = threading.Lock()
 
 #----------Start function: main()----------
 def Main():
-    host = '10.249.222.248'
+    host = '-----'#add host ip
 
     # reverse a port on your computer
     # in our case it is 12345 but it
